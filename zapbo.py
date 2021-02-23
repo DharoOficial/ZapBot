@@ -4,7 +4,7 @@ import time
 class WhatsappBot:
     def __init__(self):
         # Parte 1 - A mensagem que você quer enviar
-        self.mensagem = "mano q vontade de dar o cu"
+        self.mensagem = "Hello World"
         # Parte 2 - Nome dos grupos ou pessoas a quem você deseja enviar a mensagem
         self.grupos_ou_pessoas = ["Rainbow six siege"]
         options = webdriver.ChromeOptions()
